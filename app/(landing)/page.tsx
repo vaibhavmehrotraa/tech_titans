@@ -1,16 +1,19 @@
+import { Button } from "@/components/ui/button";
+
 const LandingPage = () => {
     return ( 
         // <div>Landing Page(Unprotected)</div>
         <div>
             <a href="/sign-in">
-                <button>
+                <Button>
                     login
-                </button>
+                </Button>
             </a>
             <a href="/sign-up">
-                <button>
+                <Button>
                     register
-                </button>
+                </Button>
+
             </a>
         </div>
      );

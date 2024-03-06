@@ -6,3 +6,11 @@ Creating a Software as a Service (SaaS) AI platform that integrates Next.js 13, 
 
 # Architecture
 ![cf57e27d-8f2d-42d1-9f15-6287452655c8](https://github.com/vaibhavmehrotraa/techTitans/assets/92322867/94a7e829-12c2-4dad-ad8b-dbc84ab89bab)
+
+
+# installation
+npx shadcn-ui@latest init
+npm install @clerk/nextjs      
+npx shadcn-ui@latest add button
+npx shadcn-ui@latest add sheet
+npx shadcn-ui@latest add card
